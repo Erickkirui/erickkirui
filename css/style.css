@@ -1,4 +1,48 @@
 *{
+   
+    font-family: 'Poppins';
     background-color: #04090F;
 
 }
+/* Hero section */
+#hero-section{
+
+
+}
+/* navigation menu */
+nav {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    background-color: #85ED90;
+    border-radius: 10px;
+    padding: -1px 10px 10px 10px;
+  }
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+    background-color: #85ED90;
+  }
+  
+  nav li {
+    display: inline-block;
+  }
+  
+  nav a {
+    display: block;
+   padding: 0.5em;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #85ED90;;
+
+  }
+
+  nav li.brand {
+    margin-right: 337px;
+  }
