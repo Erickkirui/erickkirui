@@ -15,12 +15,22 @@
 h1{
 
 font-family: 'Poppins';
-font-style: normal;
 font-weight: 800;
 font-size: 62px;
 line-height: 98px;
 text-align: center;
 color: #FFFFFF;
+
+}
+h2{
+    /* { Erick kirui } */
+font-family: 'Poppins';
+font-weight: 700;
+font-size: 65px;
+text-align: center;
+margin: 0px;
+color: #85ED90;
+
 
 }
 
@@ -29,11 +39,12 @@ p{
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 30px;
+font-size: 26px;
 line-height: 45px;
 text-align: center;
 color: #FFFFFF;
-margin-top: -29px;
+margin-top: -48px;
+
 }
 
 
