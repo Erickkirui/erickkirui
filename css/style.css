@@ -9,9 +9,37 @@
 
 
 }
+
+/* A developer in the making */
+
+h1{
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 62px;
+line-height: 98px;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+p{
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #FFFFFF;
+margin-top: -29px;
+}
+
+
 /* navigation menu */
 nav {
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
